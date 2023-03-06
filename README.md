@@ -7,6 +7,6 @@
 * Suggest how Cyclistic can use digital media to influence casual riders to become annual members.
 
 # [Project 2: Asthma ED Visits in CA Analysis](https://github.com/seungeunsong/SeungEun_Portfolio/blob/main/Asthma_EDvisits.ipynb)
-* Analized if there is any correlations between Median income and ED visit counts
-* Analized imporvements(decrease in ED visits) by Counties 
-* 
+* Analized the data to look for prevalence of Asthma and geography. 
+* Review top 10 counties that had the most Asthma related ED Visits.
+* Assessed the improvement rate by counbty and compare with increase rate of income to look for prevalence.

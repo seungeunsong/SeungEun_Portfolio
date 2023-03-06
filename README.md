@@ -6,7 +6,7 @@
 * Analize what would make casual riders to purchase annual membership.
 * Suggest how Cyclistic can use digital media to influence casual riders to become annual members.
 
-# Project 2: Asthma ED Visits in CA Analysis
+# [Project 2: Asthma ED Visits in CA Analysis](https://github.com/seungeunsong/SeungEun_Portfolio/blob/main/Asthma_EDvisits.ipynb)
 * Analized if there is any correlations between Median income and ED visit counts
 * Analized imporvements(decrease in ED visits) by Counties 
 * 
